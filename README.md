@@ -1,4 +1,4 @@
-# Unity Mobile Game - Balloon To The Moon
+# Unity Mobile Game: Balloon To The Moon
 Unity 2D Mobile Game for Android and iOS
 
 - Art currently being made.
